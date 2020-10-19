@@ -1,9 +1,3 @@
-/* Template: Aria - Business HTML Landing Page Template
-   Author: Inovatik
-   Created: Jul 2019
-   Description: Master CSS file
-*/
-
 /*****************************************
 Table Of Contents:
 
@@ -35,8 +29,8 @@ Colors:
 
 - Backgrounds - light gray #fbfbfb
 - Background - dark blue #153e52
-- Backgrounds navbar, footer - dark gray #113448
-- Buttons, bullets, icons - green #14bf98
+- Backgrounds navbar, footer - dark gray #1E1E1E !UPSMART
+- Buttons, bullets, icons - blue #5195CA
 - Headings text - black #484a46
 - Body text - gray #787976
 - Body text - light gray #dfe5ec
@@ -119,7 +113,7 @@ a:hover {
 }
 
 a.green {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 a.white,
@@ -140,16 +134,16 @@ strong {
 }
 
 .section-title {
-	color: #14bf98;
+	color: #5195CA;
 	font: 500 0.8125rem/1.125rem "Montserrat", sans-serif;
 }
 
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
-	border: 0.125rem solid #14bf98;
+	border: 0.125rem solid #5195CA;
 	border-radius: 0.25rem;
-	background-color: #14bf98;
+	background-color: #5195CA;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -158,16 +152,16 @@ strong {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #5195CA;
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-	border: 0.125rem solid #14bf98;
+	border: 0.125rem solid #5195CA;
 	border-radius: 0.25rem;
-	background-color: #14bf98;
+	background-color: #5195CA;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -176,7 +170,7 @@ strong {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #5195CA;
 	text-decoration: none;
 }
 
@@ -377,9 +371,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 0.125rem solid #14bf98;
+	border: 0.125rem solid #5195CA;
 	border-radius: 0.25rem;
-	background-color: #14bf98;
+	background-color: #5195CA;
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
 	cursor: pointer;
@@ -388,7 +382,7 @@ input[type='checkbox'] {
 
 .form-control-submit-button:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #5195CA;
 }
 
 /* Form Success And Error Message Formatting */
@@ -587,7 +581,7 @@ input[type='checkbox'] {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #113448;
+	background: #1E1E1E;
 }
 
 .spinner {
@@ -644,7 +638,7 @@ input[type='checkbox'] {
 .navbar-custom {
 	padding-top: 0.375rem;
 	padding-bottom: 0.375rem;
-	background-color: #113448;
+	background-color: #1E1E1E;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 600 0.875rem/0.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -656,7 +650,7 @@ input[type='checkbox'] {
 
 .navbar-custom .navbar-brand.logo-image img {
     width: 7.0625rem;
-	height: 2rem;
+	height: auto;
 	-webkit-backface-visibility: hidden;
 }
 
@@ -682,7 +676,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 /* Dropdown Menu */
@@ -710,7 +704,7 @@ input[type='checkbox'] {
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #113448;
+	background-color: #1E1E1E;
 }
 
 .navbar-custom .dropdown-item {
@@ -719,7 +713,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover {
-	background-color: #113448;
+	background-color: #1E1E1E;
 }
 
 .navbar-custom .dropdown-item .item-text {
@@ -727,7 +721,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
@@ -940,7 +934,7 @@ input[type='checkbox'] {
 }
 
 .cards-2 .list-unstyled .fas {
-	color: #14bf98;
+	color: #5195CA;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -957,7 +951,7 @@ input[type='checkbox'] {
 }
 
 .cards-2 .price span {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 .cards-2 .button-container {
@@ -1005,9 +999,9 @@ input[type='checkbox'] {
 	width: 2.25rem;
 	height: 2.25rem;
 	margin-right: 0.875rem;
-	border: 0.125rem solid #14bf98;
+	border: 0.125rem solid #5195CA;
 	border-radius: 50%;
-	background-color: #14bf98;
+	background-color: #5195CA;
 	color: #fff;
 	font: 700 1rem/2.125rem "Montserrat", sans-serif;
 	text-align: center;
@@ -1023,8 +1017,8 @@ input[type='checkbox'] {
 }
 
 .accordion .item:hover span[aria-expanded="false"] .circle-numbering {
-	border: 0.125rem solid #14bf98;
-	color: #14bf98;
+	border: 0.125rem solid #5195CA;
+	color: #5195CA;
 }
 
 .accordion .accordion-title {
@@ -1040,11 +1034,11 @@ input[type='checkbox'] {
 }
 
 .accordion .item:hover .accordion-title {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 .accordion span[aria-expanded="true"] .accordion-title {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 .accordion .accordion-body {
@@ -1083,7 +1077,7 @@ input[type='checkbox'] {
 
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 .tabs .nav-link .fas {
@@ -1113,7 +1107,7 @@ input[type='checkbox'] {
 	display: block;
 	padding-left: 1.5rem;
 	border-radius: 0.125rem;
-	background: linear-gradient(to bottom right, #14bf98, #1bd1a7);
+	background: linear-gradient(to bottom right, #5195CA, #1bd1a7);
 }
 
 .tabs #tab-1 .progress-bar.first {
@@ -1139,7 +1133,7 @@ input[type='checkbox'] {
 }
 
 .tabs #tab-2 .list-unstyled .media-bullet {
-	color: #14bf98;
+	color: #5195CA;
 	font-weight: 600;
 	font-size: 2rem;
 	line-height: 2rem;
@@ -1150,7 +1144,7 @@ input[type='checkbox'] {
 }
 
 .tabs #tab-3 .list-unstyled .fas {
-	color: #14bf98;
+	color: #5195CA;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1263,7 +1257,7 @@ input[type='checkbox'] {
 }
 
 .form-1 .list-unstyled .fas {
-	color: #14bf98;
+	color: #5195CA;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1348,12 +1342,12 @@ input[type='checkbox'] {
 }
 
 .filter .button-group a:hover {
-	background-color: #14bf98;
+	background-color: #5195CA;
 	color: #fff;
 }
 
 .filter .button-group a.button.is-checked {
-	background-color: #14bf98;
+	background-color: #5195CA;
 	color: #fff;
 }
 
@@ -1435,7 +1429,7 @@ input[type='checkbox'] {
 	margin-bottom: 0.625rem;
 	margin-left: 0;
 	border: none;
-	background-color: #14bf98;
+	background-color: #5195CA;
 }
 
 .lightbox-basic h6 {
@@ -1566,7 +1560,7 @@ input[type='checkbox'] {
 }
 
 .basic-2 .fa-stack:hover .fa-stack-1x {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 
@@ -1599,7 +1593,7 @@ input[type='checkbox'] {
 }
 
 .counter .list-unstyled .fas {
-	color: #14bf98;
+	color: #5195CA#5195CA;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1621,7 +1615,7 @@ input[type='checkbox'] {
 .counter #counter .counter-value {
 	display: inline-block;
 	margin-bottom: 0.125rem;
-	color: #14bf98;
+	color: #5195CA;
 	font: 700 2.875rem/3.25rem "Montserrat", sans-serif;
 	vertical-align: middle;
 }
@@ -1666,7 +1660,7 @@ input[type='checkbox'] {
 .form-2 .list-unstyled .fab {
 	margin-right: 0.5rem;
 	font-size: 0.875rem;
-	color: #14bf98;
+	color: #5195CA;
 }
 
 .form-2 .list-unstyled .fa-phone {
@@ -1707,7 +1701,7 @@ input[type='checkbox'] {
 }
 
 .form-2 .fa-stack:hover .fa-stack-1x {
-	color: #14bf98;
+	color: #5195CA;
 }
 
 
@@ -1716,7 +1710,7 @@ input[type='checkbox'] {
 /**********************/
 .footer {
 	padding-top: 5rem;
-	background-color: #113448;
+	background-color: #1E1E1E;
 }
 
 .footer .text-container {
@@ -1741,7 +1735,7 @@ input[type='checkbox'] {
 .copyright {
 	padding-top: 1rem;
 	padding-bottom: 0.5rem;
-	background-color: #113448;
+	background-color: #1E1E1E;
 	text-align: center;
 }
 
@@ -1764,7 +1758,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #14bf98 url("../images/up-arrow.png") no-repeat center 47%;
+	background: #5195CA url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
@@ -1821,7 +1815,7 @@ a:hover.back-to-top {
 }
 
 .ex-basic-2 .list-unstyled .fas {
-	color: #14bf98;
+	color: #5195CA;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1876,13 +1870,13 @@ a:hover.back-to-top {
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #14bf98;
+		color: #5195CA;
 	}
 
 	.navbar-custom.top-nav-collapse {
         padding: 0.375rem 1.5rem 0.375rem 2rem;
 		box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
-		background-color: #113448;
+		background-color: #1E1E1E;
 	}
 
 	.navbar-custom.top-nav-collapse .navbar-brand.logo-text {
@@ -1895,7 +1889,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #14bf98;
+		color: #5195CA;
 	}
 
 	.navbar-custom .dropdown-menu {
@@ -2067,7 +2061,7 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom .fa-stack:hover .fa-stack-1x {
-		color: #14bf98;
+		color: #5195CA;
 	}
 	/* end of navigation */
 
