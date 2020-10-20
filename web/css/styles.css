@@ -1493,7 +1493,7 @@ input[type='checkbox'] {
 }
 
 .basic-2 .team-member {
-	display: inline-block;
+	display: inline-grid;
 	max-width: 13rem;
 	margin-right: 1.5rem;
 	margin-bottom: 3.5rem;

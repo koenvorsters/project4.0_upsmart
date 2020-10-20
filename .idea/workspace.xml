@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b1ddca7-54cf-4aca-a94a-15c480330a0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/intro-office.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/upsmart_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/bg-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/bg-header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/team-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/team-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/team-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/team-4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -35,8 +37,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\css" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\images" />
+      <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\css" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -53,7 +55,7 @@
       <updated>1603140942838</updated>
       <workItem from="1603140943910" duration="4085000" />
       <workItem from="1603181755228" duration="5157000" />
-      <workItem from="1603201296078" duration="7054000" />
+      <workItem from="1603201296078" duration="9778000" />
     </task>
     <servers />
   </component>
