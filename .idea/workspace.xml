@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e90e40a5-38c1-4923-b81b-aa0cb3ea38a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/testimonial-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/testimonial-6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/LesCordova/PIstrip2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/project_cordova" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,7 +82,7 @@
       <workItem from="1603140943910" duration="4085000" />
       <workItem from="1603181755228" duration="5157000" />
       <workItem from="1603201296078" duration="12746000" />
-      <workItem from="1603532986324" duration="4590000" />
+      <workItem from="1603532986324" duration="12153000" />
     </task>
     <servers />
   </component>
