@@ -2103,7 +2103,6 @@ a:hover.back-to-top {
 
 	/* Services */
 	.cards-2 .card {
-		max-width: 18.25rem;
 		display: inline-block;
 		vertical-align: top;
 	}
@@ -2294,9 +2293,6 @@ a:hover.back-to-top {
 
 
 	/* Services */
-	.cards-2 .card {
-		max-width: 20.875rem;
-	}
 
 	.cards-2 .card-body {
 		padding: 2.25rem 2.5rem 2.125rem 2.5rem;
