@@ -356,4 +356,9 @@ $( document ).ready(function($) {
 		$(this).blur();
 	});
 
+	/* Header-text */
+    var $headerTextHeight = $(".header-text").height();
+    var $windowHeight = $(window).height();
+    $(".header-text").css("padding-top", ($windowHeight - $headerTextHeight)/2)
+
 })(jQuery);
