@@ -350,6 +350,9 @@ $( document ).ready(function($) {
         }
     });
 
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
 
 	/* Removes Long Focus On Buttons */
 	$(".button, a, button").mouseup(function() {
