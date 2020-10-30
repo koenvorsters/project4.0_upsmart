@@ -993,7 +993,7 @@ input[type='checkbox'] {
 /*************************/
 .accordion .area-1 {
 	height: 27rem;
-	background: url('../images/details-1-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), url('../images/details-1-background.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1264,7 +1264,7 @@ input[type='checkbox'] {
 .form-1 {
 	padding-top: 6.625rem;	
 	padding-bottom: 5.625rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), url('../images/contact-1.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)), #8652E3;
 }
 
 .form-1 .text-container {
