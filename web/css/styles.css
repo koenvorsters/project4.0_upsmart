@@ -69,6 +69,14 @@ body, p {
 	margin-bottom: 0.375rem;
 }
 
+.home-link {
+	color: #fff;
+}
+
+.home-link:hover {
+	color: #5195CA;
+}
+
 .indent {
 	padding-left: 1.25rem;
 }
@@ -786,7 +794,7 @@ input[type='checkbox'] {
 /*********************/
 .header {
 	height: 100vh;
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url('../images/bg-header-1.png') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), url('../images/bg-header-2.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1255,8 +1263,8 @@ input[type='checkbox'] {
 /**********************/
 .form-1 {
 	padding-top: 6.625rem;	
-	padding-bottom: 5.625rem;	
-	background-color: #153e52;
+	padding-bottom: 5.625rem;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), url('../images/contact-1.jpg') center center no-repeat;
 }
 
 .form-1 .text-container {
