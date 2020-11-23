@@ -70,11 +70,11 @@ body, p {
 }
 
 .home-link {
-	color: #fff;
+	color: #fff !important;
 }
 
 .home-link:hover {
-	color: #5195CA;
+	color: #5195CA !important;
 }
 
 .indent {
@@ -794,7 +794,7 @@ input[type='checkbox'] {
 /*********************/
 .header {
 	height: 100vh;
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)), url('../images/bg-header-2.jpg') center center no-repeat;
+	background: linear-gradient(rgba(18, 135, 111, 1), rgba(133, 42, 230, 0.9)), url('../images/bg-header-3.png') center center no-repeat;
 	background-size: cover;
 }
 
