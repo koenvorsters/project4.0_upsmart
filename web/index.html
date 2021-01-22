@@ -78,6 +78,9 @@
                 <li class="nav-item">
                     <a class="nav-link page-scroll text-uppercase" href="#milestones">Milestones</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll text-uppercase" href="#updates">Updates</a>
+                </li>
             </ul>
         </div>
     </nav> <!-- end of navbar -->
@@ -93,7 +96,7 @@
                         <div class="text-container mt-3">
                             <h1 class="text-uppercase"><span id="js-rotating">Upsmart, Smart city, Herentals, Project 4.0</span></h1>
                             <p class="p-heading p-large">UPSMART bestaat uit 6 studenten van Thomas More Geel. Op deze website zal onze opdrachtgever de vorderingen kunnen bekijken van ons project.</p>
-                            <a class="btn-solid-lg text-uppercase popup-with-move-anim" href="#milestone-3">Milestone 3</a>
+                            <a class="btn-solid-lg text-uppercase popup-with-move-anim" href="#realisatie-1">Sprint 1</a>
                         </div>
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
@@ -465,7 +468,7 @@
     <!-- end of services -->
 
     <!-- Details 1 -->
-    <div id="milestones" class="mt-5">
+    <div id="milestones">
         <div id="details details-1" class="accordion">
             <div class="area-1">
             </div><!-- end of area-1 on same line and no space between comments to eliminate margin white space --><div class="area-2">
@@ -523,17 +526,48 @@
         <!-- end of details 1 -->
     </div>
 
-    <div class="updates-container text-center mb-5">
-        <h2 class="mb-5">Updates</h2>
-        <span class="d-inline-block mb-3">
-            <a href="#milestone-1" class="btn btn-solid-lg-update text-decoration-none popup-with-move-anim" role="button">MILESTONE 1 (16/11)</a>
-        </span>
-        <span class="d-inline-block mb-3">
-            <a href="#milestone-2" class="btn btn-solid-lg-update text-decoration-none popup-with-move-anim" role="button">MILESTONE 2 (30/11)</a>
-        </span>
-        <span class="d-inline-block mb-3">
-            <a href="#milestone-3" class="btn btn-solid-lg-update text-decoration-none popup-with-move-anim" role="button">MILESTONE 3 (14/12)</a>
-        </span>
+    <div id="updates" style="background-color: #FBFBFB;">
+        <div class="filter">
+            <div class="section-title">Updates</div>
+            <h2 class="mb-4">Projectopvolging</h2>
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <!-- Filter -->
+                        <div class="button-group filters-button-group mb-2">
+                            <a class="button" data-filter="*"><span>TOON ALLES</span></a>
+                            <a class="button" data-filter=".analyse"><span>ANALYSEFASE</span></a>
+                            <a class="button" data-filter=".realisatie"><span>REALISATIEFASE</span></a>
+                        </div> <!-- end of button group -->
+                        <div class="row justify-content-center ml-3">
+                            <div class="col-10">
+                                <div class="grid">
+                                    <div class="element-item analyse m-1">
+                                        <a class="popup-with-move-anim" href="#milestone-1"><div class="element-item-overlay"><span>Milestone 1</span></div><img src="images/updates-analyse-1.png" alt="Analyse 1"></a>
+                                    </div>
+                                    <div class="element-item analyse m-1">
+                                        <a class="popup-with-move-anim" href="#milestone-2"><div class="element-item-overlay"><span>Milestone 2</span></div><img src="images/updates-analyse-2.png" alt="Analyse 2"></a>
+                                    </div>
+                                    <div class="element-item analyse m-1">
+                                        <a class="popup-with-move-anim" href="#milestone-3"><div class="element-item-overlay"><span>Milestone 3</span></div><img src="images/updates-analyse-3.png" alt="Analyse 3"></a>
+                                    </div>
+                                    <div class="element-item realisatie m-1">
+                                        <a class="popup-with-move-anim" href="#realisatie-1"><div class="element-item-overlay"><span>Week 1 <br> (nog niet beschikbaar)</span></div><img src="images/updates-realisatie-1.png" alt="Realisatie 1"></a>
+                                    </div>
+                                    <div class="element-item realisatie m-1">
+                                        <a href="#realisatie-2"><div class="element-item-overlay"><span>Week 2 <br> (nog niet beschikbaar)</span></div><img src="images/updates-realisatie-2.png" alt="Realisatie 2"></a>
+                                    </div>
+                                    <div class="element-item realisatie m-1">
+                                        <a href="#realisatie-3"><div class="element-item-overlay"><span>Week 3 <br> (nog niet beschikbaar)</span></div><img src="images/updates-realisatie-3.png" alt="Realisatie 3"></a>
+                                    </div>
+                                </div> <!-- end of grid -->
+                                <!-- end of filter -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- end of container -->
+        </div>
     </div>
 
     <!-- Project Lightboxes -->
@@ -616,7 +650,56 @@
         </div> <!-- end of row -->
     </div> <!-- end of lightbox-basic -->
     <!-- end of lightbox -->
-    <!-- end of project lightboxes -->
+
+    <!-- Lightbox -->
+    <div id="realisatie-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-12">
+                <h3>Realisatiefase week 1</h3>
+                <hr class="line-heading">
+<!--                <h6>14 december</h6>-->
+                <p class="mt-4">In onderstaande video ziet u de voortgang die we tijdens de eerste sprint hebben gemaakt.</p>
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XdHU2vpWCMY" allowfullscreen></iframe>
+                </div>
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="realisatie-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-12">
+                <h3>Realisatiefase week 2</h3>
+                <hr class="line-heading">
+                <!--                <h6>14 december</h6>-->
+                <p class="mt-4">Deze milestone is pas beschikbaar op het einde van week 2 van de realisatiefase.</p>
+                <!--                <a class="btn-solid-reg mt-3 text-uppercase" href="/download/upsmart_analyserapport.pdf">Download documentatie</a>-->
+                <!--                <a class="btn-solid-reg mt-3 text-uppercase" href="/download/upsmart_presentatie_analysefase.pdf">Download presentatie</a>-->
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="realisatie-3" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-12">
+                <h3>Realisatiefase week 3</h3>
+                <hr class="line-heading">
+                <!--                <h6>14 december</h6>-->
+                <p class="mt-4">Deze milestone is pas beschikbaar op het einde van week 3 van de realisatiefase.</p>
+                <!--                <a class="btn-solid-reg mt-3 text-uppercase" href="/download/upsmart_analyserapport.pdf">Download documentatie</a>-->
+                <!--                <a class="btn-solid-reg mt-3 text-uppercase" href="/download/upsmart_presentatie_analysefase.pdf">Download presentatie</a>-->
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
 
     <!-- Footer -->
     <div class="footer">
@@ -656,7 +739,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © 2020 UPSMART</p>
+                    <p class="p-small">Copyright © 2021 UPSMART</p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->

@@ -3,14 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="e90e40a5-38c1-4923-b81b-aa0cb3ea38a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/testimonial-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/testimonial-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/testimonial-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/testimonial-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/testimonial-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/BI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/bg-header-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/bg-header-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/bg-header-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/bg-header-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/contact-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/header-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/iot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/iot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/project-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/project-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/project-3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/project_cordova" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,10 +52,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Semester 1\Project 4.0\project4.0_upsmart\web\images" />
+      <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Semester 1\Project 4.0\project4.0_upsmart\web\download" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\images" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\css" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web" />
@@ -56,19 +67,7 @@
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\images" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -83,29 +82,49 @@
       <workItem from="1603181755228" duration="5157000" />
       <workItem from="1603201296078" duration="12746000" />
       <workItem from="1603532986324" duration="12153000" />
+      <workItem from="1603699700153" duration="738000" />
+      <workItem from="1603803380317" duration="5425000" />
+      <workItem from="1603874269919" duration="2143000" />
+      <workItem from="1603900213157" duration="14931000" />
+      <workItem from="1604007266053" duration="235000" />
+      <workItem from="1604056382813" duration="5773000" />
+      <workItem from="1605514025185" duration="7617000" />
+      <workItem from="1605546359445" duration="1117000" />
+      <workItem from="1606118917365" duration="680000" />
+      <workItem from="1606166783845" duration="776000" />
+      <workItem from="1606763937659" duration="1730000" />
+      <workItem from="1607904699836" duration="20000" />
+      <workItem from="1607904742828" duration="937000" />
+      <workItem from="1607942548411" duration="1371000" />
+      <workItem from="1608055299752" duration="9207000" />
+      <workItem from="1611150231409" duration="28000" />
+      <workItem from="1611325718305" duration="531000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603181751560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/957.-1081.1920.1080/-963.-1080.1920.1080@0.0.1536.824" timestamp="1603181751560" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1606765006564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/941.-1094.1920.1080/-979.-1080.1920.1080@0.0.1536.824" timestamp="1606765006564" />
   </component>
 </project>
