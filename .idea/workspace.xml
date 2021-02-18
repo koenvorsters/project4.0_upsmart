@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/download" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,11 +43,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Semester 1\Project 4.0\Teamsite\project4.0_upsmart\web\download" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Semester 1\Project 4.0\project4.0_upsmart\web\images" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Semester 1\Project 4.0\project4.0_upsmart\web\download" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\images" />
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\css" />
-      <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\seppe\OneDrive - Thomas More\3 ITF\Project 4.0\project4.0_upsmart\web\images" />
@@ -88,7 +88,8 @@
       <workItem from="1611561125016" duration="19000" />
       <workItem from="1611561173357" duration="528000" />
       <workItem from="1612531464075" duration="673000" />
-      <workItem from="1612994598501" duration="35000" />
+      <workItem from="1612994598501" duration="92000" />
+      <workItem from="1613640233200" duration="1318000" />
     </task>
     <servers />
   </component>
